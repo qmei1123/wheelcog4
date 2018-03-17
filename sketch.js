@@ -1,7 +1,7 @@
 function setup() {
     createCanvas(window.innerWidth, window.innerHeight);
     angleMode(DEGREES);
-    frameRate(.5);
+    frameRate(.75);
 }
 
 function draw() { 
